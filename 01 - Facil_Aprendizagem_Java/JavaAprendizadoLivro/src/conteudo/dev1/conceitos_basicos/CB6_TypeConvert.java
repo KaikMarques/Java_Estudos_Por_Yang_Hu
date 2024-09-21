@@ -6,7 +6,7 @@ public class CB6_TypeConvert {
 
         byte varByte = 1;
         int varInt = 2;
-        // byte é convertido diretamente int
+        // byte é convertido diretamente int        
         varInt = varByte;
         System.out.println(varInt);
 
