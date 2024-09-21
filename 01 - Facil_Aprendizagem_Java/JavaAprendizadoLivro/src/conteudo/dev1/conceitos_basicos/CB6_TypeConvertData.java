@@ -1,6 +1,6 @@
 package conteudo.dev1.conceitos_basicos;
 
-public class CB6_TypeConvert {
+public class CB6_TypeConvertData {
 
     public static void main(String[] args) {
 

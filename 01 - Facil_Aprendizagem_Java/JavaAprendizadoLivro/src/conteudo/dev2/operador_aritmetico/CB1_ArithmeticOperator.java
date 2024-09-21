@@ -15,7 +15,6 @@ class Caculator{
     }
 }
 
-
 public class CB1_ArithmeticOperator {
     // Operador Aritmético: adicionar +, menos -, multiplicar *, divisível /, obter módulo%
 
@@ -50,7 +49,6 @@ public class CB1_ArithmeticOperator {
         System.out.println(result); //8
         result = divide(4, 2); // chame o método divide
         System.out.println(result); // 2
-
 
         Caculator cal = new Caculator();
         int resultt = cal.add(4, 2); // chame o método add
