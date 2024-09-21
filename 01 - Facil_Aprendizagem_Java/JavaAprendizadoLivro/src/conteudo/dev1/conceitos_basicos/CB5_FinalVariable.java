@@ -4,6 +4,8 @@ public class CB5_FinalVariable {
 
     public static void main(String[] args) {
 
+        //  Constante (Constant): o valor não pode ser alterado.
+
         //Integer Constante
         final int UP = 0;
         final int DOWN = 1;
